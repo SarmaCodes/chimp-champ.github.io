@@ -102,11 +102,11 @@
     <div class="container">
         <header>
             <h1>Chimp Champ</h1>
-            <h2>Inspired by the Genius of Ayumu!</h2>
+            <h2>Inspired by the Genius of  <a href="https://en.wikipedia.org/wiki/Ayumu_(chimpanzee)">Ayumu!</a></h2>
         </header>
 
         <main class="content">
-            <a href="#" class="cta-button">Get it on the App Store</a>
+            <a href="https://apps.apple.com/us/app/id6743861995" class="cta-button">Get it on the App Store</a>
 
             <p>
                 Put your memory to the test with <strong>Chimp Champ</strong>, the addictive puzzle game inspired by the
@@ -135,9 +135,9 @@
 
         <footer>
             <p>
-                <a href="#">Support</a> &nbsp;&middot;&nbsp; 
-                <a href="#">Terms of Use</a> &nbsp;&middot;&nbsp; 
-                <a href="#">Privacy Policy</a>
+                <a href="sarma.codes@gmail.com">Support</a> &nbsp;&middot;&nbsp; 
+                <a href="https://sarmacodes.github.io/docs/MemoX_Terms.html">Terms of Use</a> &nbsp;&middot;&nbsp; 
+                <a href="https://sarmacodes.github.io/docs/MemoX_Privacy.html">Privacy Policy</a>
             </p>
             <p>&copy; 2025 SarmaCodes. All rights reserved.</p>
         </footer>
